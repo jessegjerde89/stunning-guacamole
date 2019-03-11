@@ -1,0 +1,68 @@
+body {
+    background-image: linear-gradient(to right, #A9A9A9 0%,rgba(94, 207, 207, 0.082) 88%);
+    background-blend-mode:color-burn;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+    border: 80px solid rgba(0, 0, 0, 0.67);
+    border-radius: -35px;
+    background-size: auto;
+    margin: -10px;
+    padding:5px;
+  }
+
+  .ref {
+    font-size: 18px;
+    font: bold; 
+  }
+  .menu {
+    width:110px;
+    padding: 10px;
+    float: left;
+    border-radius:20px;
+    border: 3px solid  #76B9CB;
+    background-color: #4E5364;
+    color: #F4F8F9; 
+
+  } 
+  .bod {
+    padding: 0px 0px 0px 30px;
+  }
+  h1{
+    color: rgba(6, 21, 41, 0.87);
+    text-shadow: 2px 2px 4px #F4F8F9;
+    width:75%;
+    margin: auto;
+    word-spacing: 15px; 
+    font-size: 2.5em;
+  }
+  h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 2px #F4F8F9;
+    width:75%;
+    margin: auto;
+    padding: 10px 0px 5px 20px;
+  }
+  h3{
+    font-style: underline; 
+    text-shadow: 1px 1px 2px #F4F8F9;
+    width: 75%;
+    margin: auto;
+    padding:5px 0px;
+   
+  }
+  h4{
+    width: 75%;
+    margin: auto;
+    margin-right: 18px;
+  }
+  h5{
+    width:75%;
+    margin: auto;
+  }
+  ul{
+    width:75%;
+    margin: auto;
+    padding: 5px 5px 5px 15px; 
+  }
+
+  

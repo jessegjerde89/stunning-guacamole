@@ -1,0 +1,45 @@
+body {
+  background-color : grey;
+}
+header {
+  background-color: Blue;
+}
+
+h1 {
+  font-family: monospace;
+  padding-top: -50px;
+  font-size: 160px;
+  letter-spacing: -1px;
+  color : orange;
+  line-height: 1;
+  text-align: center;
+  background-color: Blue;
+ }
+
+ul {
+  font-size: 25px;
+  font-family: fantasy;
+  color: white;
+}
+
+.jimmy {
+  font-family : cursive;
+  color : blue;
+  font-size: 30px;
+  background-color: black;
+  line-height: 90%;
+  text-align: center;
+}
+#pict {
+  position: relative;
+  left: 300px;
+
+}
+.quote {
+  background-color: black;
+  paddding-bottom: 60px;
+}
+#pict{
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(images.jpeg) 30 round;
